@@ -1,4 +1,4 @@
-#To run this app 
+# To run this app 
 
 pip install openai uvicorn fastapi
 
